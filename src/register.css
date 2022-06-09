@@ -1,0 +1,219 @@
+.parent {
+    width: 1130px;
+    height: 1601px;
+    flex-grow: 0;
+    padding: 0 0 99px 0.1px;
+    background-color: #fff;
+  }
+  .Rectangle-2 {
+    width: 1100px;
+    height: 300px;
+    margin: 0 0 73.7px;
+    padding: 27px 107px 91.3px 61.9px;
+    border-radius: 0 0 32% 32%;
+    background-image: linear-gradient(to right, #ffa300 100%, #ff7e00 0%);
+  }
+  .Rising-Stars2 {
+    width: 289px;
+    height: 35px;
+    margin: -42.4px 435.8px 283.6px 63.2px;
+    font-family: oufit;
+    font-size: 25px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .schol{
+      height:350px;
+      width:350px;
+      float:right;
+      margin:-360px 0px 0 0px;
+  }
+  .Parent-Registration {
+    width: 485px;
+    height: 75px;
+    margin: 73.7px 12px 1px 87.9px;
+    font-family: outfit;
+    font-size: 40px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.95);
+  }
+  .Enter-your-details-to-register {
+    width: 382px;
+    height: 41px;
+    margin: 10px 0px 58px 91.9px;
+    font-family: outfit;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .text-field {
+    position: relative;
+    margin: 40px 10px 10px 100px;
+  }
+  
+  .text-field input{
+    display: inline-block;
+    color:black;
+    width: 600px;
+    height: 33px;
+    border-radius: 5px;
+    font-size: medium;
+    border: 1px solid #cdcdcd;
+    background-color: #fff;
+    padding: 10px 20px 10px;
+  }
+  
+  .text-field input:focus, .text-field input:active {
+    border: 1px solid #ff2c60;
+    background-color:#fff;
+  }
+  
+  .text-field label {
+    color: #999;
+    position: absolute;
+    pointer-events: none;
+    left: 25px;
+    top: 14px;
+    transition: 0.2s;
+    font-family: outfit, sans-serif;
+  }
+  
+  .text-field input:focus ~ label, input:valid ~ label {
+    top: -7px;
+    left: 15px;
+    font-size: medium;
+    color:rgba(0, 0, 0, 0.5);
+    background-color:#fff;
+    padding:0 5px 0 5px;
+  }
+  .Enter-parent-s-name-here {
+    width: 328px;
+    height: 8px;
+    margin: 4px 134px 6px 510px;
+    font-family: outfit;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.5);
+  }
+ 
+  .I-would-like-to-receive-Rising-Stars-newsletter-and-other-communications {
+    width: 974px;
+    height: 41px;
+    margin: 76px 258px 60px 117.9px;
+    font-family: outfit;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .I-would-like-to-receive-Rising-Stars-newsletter-and-other-communications .text-style-1 {
+    color: #ff7e00;
+  }
+  
+  .I-would-like-to-receive-Rising-Stars-newsletter-and-other-communications .text-style-2 {
+    color: #ffa300;
+  }
+  .Yes-please {
+    width: 132.8px;
+    height: 34.7px;
+    margin: -40px 0 1.3px 220.3px;
+    font-family: outfit;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .rado{
+      position: absolute;
+      height:25px;
+      width:25px;
+      margin:0 0 0 -30px;
+      cursor: pointer;
+      background-color: #ff7e00 100%;
+  }
+  .No-thanks {
+    width: 128.5px;
+    height: 34.7px;
+    margin: -37px 0 1.3px 521.6px;
+    font-family: outfit;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  .Rectangle-17 {
+    width: 237px;
+    height: 25.4px;
+    margin: 41px 420px 29.6px 180px;
+    padding: 18px 67px 21.4px 87px;
+    border-radius: 35px;
+    background-image: linear-gradient(to bottom, #ffa300 0%, #ff7e00 100%);
+  }
+  .Register {
+    width: 113px;
+    height: 41px;
+    font-family: oufit,sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+    margin-left:70px;
+  }
+  .reg{
+    cursor: pointer;
+  }
+  .By-registering-you-are-agreed-to-our-Term-and-Conditions {
+    width: 664px;
+    height: 25px;
+    margin: 19.6px 326px 0 216px;
+    font-family: outfit;
+    font-size: 12px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .By-registering-you-are-agreed-to-our-Term-and-Conditions .text-style-1 {
+    color: #ff7e00;
+  }
